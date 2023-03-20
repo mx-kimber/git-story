@@ -1,3 +1,3 @@
-Once upon a time there was a dog.
-The dogs name was Blueberry.
+There is a dog.
+The dogs name is Blueberry.
 Blueberry loved blueberries and pancakes.
